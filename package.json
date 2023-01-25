@@ -1,0 +1,16 @@
+{
+  "name": "sharp_dev_node_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": "https://github.com/v-sukhanov/sharp_dev_node_test.git",
+  "author": "vladimirsuhanov <vladimir.sukhanov99@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
