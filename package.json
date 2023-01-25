@@ -9,7 +9,9 @@
   "repository": "https://github.com/v-sukhanov/sharp_dev_node_test.git",
   "author": "vladimirsuhanov <vladimir.sukhanov99@gmail.com>",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  },
   "devDependencies": {
     "nodemon": "^2.0.20"
   }
